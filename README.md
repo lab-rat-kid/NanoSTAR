@@ -59,6 +59,8 @@ To get a local copy up and running follow [these simple steps](https://github.co
 
 To use NanoSTAR is simple, and detailed in [this document](https://github.com/lab-rat-kid/NanoSTAR/blob/main/docs/NanoSTAR%20User%20Guide.pdf).
 
+Test data can be downloaded [here](https://www.dropbox.com/s/xyibpyiavr9t22t/test%20data.zip?dl=0)
+
 <!-- OUTPUT -->
 ## Output
 
